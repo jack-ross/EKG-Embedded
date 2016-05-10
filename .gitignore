@@ -1,0 +1,4 @@
+# Ignore these files in a msp430-libc development area
+#
+# Directories named build
+Debug/
